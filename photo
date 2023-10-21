@@ -8,7 +8,7 @@
 <body>
     <a href="index.html">Homepage</a>
     <a href="contact.html">Contact details</a>
-   <img src="images/croissant.webp"> 
+   <img src="images/croissant.webp" alt="picture of croissant"> 
 
 </body>
 </html>
