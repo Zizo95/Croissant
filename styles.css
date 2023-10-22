@@ -1,0 +1,9 @@
+a{
+justify-content: space-evenly;
+color: blueviolet;
+}
+img{
+    width: 300px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px 0.7px blueviolet ;
+}
